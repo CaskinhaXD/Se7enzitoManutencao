@@ -1,0 +1,6 @@
+name: Se7enzitoManutencao
+version: 1.0
+main: me.manu.Main
+author: Se7enzito
+commands:
+  manutencao:
